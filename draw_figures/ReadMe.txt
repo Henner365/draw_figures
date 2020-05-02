@@ -2,6 +2,11 @@
     CONSOLE APPLICATION : draw_figures Project Overview
 ========================================================================
 
+It is supposed to be an look into api sfml sdl sdl2 etc. making it a framework
+that can utilize different api's to draw shapes into a canvas of some sort. !;).
+
+
+
 AppWizard has created this draw_figures application for you.
 
 This file contains a summary of what you will find in each of the files that
