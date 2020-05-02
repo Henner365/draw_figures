@@ -5,6 +5,10 @@
 It is supposed to be an look into api sfml sdl sdl2 etc. making it a framework
 that can utilize different api's to draw shapes into a canvas of some sort. !;).
 
+eventually when master is proper.not still 2-5-20.
+Then branch for every available api that
+seems interesting.
+
 
 
 AppWizard has created this draw_figures application for you.
